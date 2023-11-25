@@ -32,7 +32,7 @@ When you run the script, it will create the following directory structure:
         │   │   └── test_rename.py
         │   ├── README.md
         │   └── setup.py
-
+```
 
 
 ## Contributing
