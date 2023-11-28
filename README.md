@@ -5,16 +5,16 @@ This script automates the process of creating a standard structure for new Pytho
 ## Features
 
 - Creates a new project directory within a centralized `projects` directory.
-- Sets up standard Python project structure, including subdirectories for source code and tests.
-- Generates initial files like `__init__.py`, a sample Python script, and basic test setup.
-- Ready-to-use structure for Python package development.
+- Sets up a standard Python project structure, including subdirectories for source code and tests.
+- Generates initial files such as `__init__.py`, a sample Python script, and a basic test setup.
+- Provides a ready-to-use structure for Python package development.
 
 ## How to Use
 
 1. Clone this repository or download the batch script.
 2. Run the script using a Windows command prompt.
 3. When prompted, enter the name of your new project.
-4. The script will create the project structure under `projects` directory.
+4. The script will create the project structure under the `projects` directory.
 
 ## Project Structure
 
